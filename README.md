@@ -3,7 +3,7 @@
 ## Input data
 * Use **mxl** files to extract notes in each measure
 * The extracted notes are stored in **xml** format
-* Based on the concept of duration (the length of time a pitch / tone is sounded), and the fixed duration in each measure, we create matrix stored in **csv** file.
+* Based on the concept of duration (the length of time a pitch / tone is sounded), that the duration in each measure is fixed, we create matrix stored in **csv** file.
 
 
 
