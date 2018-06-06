@@ -6,3 +6,11 @@ Extensive studies have been conducted on both musical scores and audio tracks of
 ## Conference
 * 2018 UP-STAT (Apr 21, 2018): Music Mining In Topic Modeling Approach For Improvisational Learning (Qiuyi Wu)
 * 2018 JSM (Jul 30, 2018): Bayesian and Unsupervised Machine Learning Machines for Jazz Music Analysis (Qiuyi Wu)
+
+
+This code is the result of work by Qiuyi Wu.
+
+(C) Copyright 2018, Qiuyi Wu
+
+
+
